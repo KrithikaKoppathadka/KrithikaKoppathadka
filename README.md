@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Krithika
-- 👀 I’m interested in learning how to code and build projects.
-- 🌱 I’m currently learning to code in python. I look forward to explore and learn the magic of coding!
+
   
 
 <!---
